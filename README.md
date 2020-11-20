@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### Welcome to my GitHub!
-<img src = "https://jsremotely.com/static/icons/nodejs.png">
 
 
 <!--
