@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Welcome to my GitHub!
+<img src = "https://jsremotely.com/static/icons/nodejs.png">
+
 
 <!--
 **15g16483/15g16483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
